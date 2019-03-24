@@ -6,6 +6,7 @@ import codecs
 import re
 import ass
 
+# 将 ass 文件转换为 srt 文件
 
 SourceFileName = input('请输入文件地址：')
 
