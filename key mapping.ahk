@@ -1,0 +1,2 @@
+﻿Ctrl::LWin
+LWin::Ctrl
